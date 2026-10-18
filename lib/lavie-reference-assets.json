@@ -1,0 +1,230 @@
+{
+  "giselle": {
+    "image": "catalog-giselle",
+    "label": "Dạ có mũ",
+    "color": "Be sáng",
+    "swatch": "#c4bba8",
+    "category": "wool"
+  },
+  "fleur": {
+    "image": "catalog-fleur",
+    "label": "Dạ xanh dịu",
+    "color": "Xanh nhạt",
+    "swatch": "#a9c4d1",
+    "category": "wool"
+  },
+  "colette": {
+    "image": "catalog-colette",
+    "label": "Dạ đen thắt đai",
+    "color": "Đen",
+    "swatch": "#272526",
+    "category": "wool"
+  },
+  "estelle": {
+    "image": "catalog-estelle",
+    "label": "Dạ xanh navy dáng dài",
+    "color": "Xanh navy",
+    "swatch": "#303947",
+    "category": "wool"
+  },
+  "iris": {
+    "image": "catalog-iris",
+    "label": "Dạ đỏ burgundy",
+    "color": "Đỏ burgundy",
+    "swatch": "#713b42",
+    "category": "wool"
+  },
+  "lise": {
+    "image": "catalog-lise",
+    "label": "Dạ hồng nâu thắt đai",
+    "color": "Nâu hồng",
+    "swatch": "#b28b83",
+    "category": "wool"
+  },
+  "jeanne": {
+    "image": "catalog-jeanne",
+    "label": "Dạ xanh lá cổ điển",
+    "color": "Xanh lá",
+    "swatch": "#4c6351",
+    "category": "wool"
+  },
+  "heloise": {
+    "image": "catalog-heloise",
+    "label": "Dạ đen mùa đông",
+    "color": "Đen",
+    "swatch": "#272526",
+    "category": "wool"
+  },
+  "noemie": {
+    "image": "catalog-noemie",
+    "label": "Dạ đen dáng ôm",
+    "color": "Đen",
+    "swatch": "#272526",
+    "category": "wool"
+  },
+  "odette": {
+    "image": "catalog-odette",
+    "label": "Dạ phom cocoon",
+    "color": "Đen",
+    "swatch": "#272526",
+    "category": "wool"
+  },
+  "pauline": {
+    "image": "catalog-pauline",
+    "label": "Dạ vàng mustard",
+    "color": "Vàng mustard",
+    "swatch": "#b9993d",
+    "category": "wool"
+  },
+  "romane": {
+    "image": "catalog-romane",
+    "label": "Dạ camel khuy đôi",
+    "color": "Nâu camel",
+    "swatch": "#b48b60",
+    "category": "wool"
+  },
+  "louise": {
+    "image": "catalog-louise",
+    "label": "Dạ camel buộc eo",
+    "color": "Nâu camel",
+    "swatch": "#b48b60"
+  },
+  "margot": {
+    "image": "catalog-margot",
+    "label": "Dạ nâu phom rộng",
+    "color": "Nâu trầm",
+    "swatch": "#79533f"
+  },
+  "claire": {
+    "image": "catalog-claire",
+    "label": "Dạ ngà dáng dài",
+    "color": "Kem ngà",
+    "swatch": "#e8dfd0"
+  },
+  "audrey": {
+    "image": "catalog-audrey",
+    "label": "Dạ ngà thanh lịch",
+    "color": "Kem ngà",
+    "swatch": "#e8dfd0"
+  },
+  "alice": {
+    "image": "catalog-alice",
+    "label": "Dạ yến mạch phom rộng",
+    "color": "Be yến mạch",
+    "swatch": "#c7bca9"
+  },
+  "rose": {
+    "image": "catalog-rose",
+    "label": "Dạ nâu dáng choàng",
+    "color": "Nâu ấm",
+    "swatch": "#896349"
+  },
+  "ines": {
+    "image": "catalog-ines",
+    "label": "Dạ camel thắt eo",
+    "color": "Nâu camel",
+    "swatch": "#b48b60"
+  },
+  "juliette": {
+    "image": "catalog-juliette",
+    "label": "Dạ be xám dáng dài",
+    "color": "Be xám",
+    "swatch": "#b3aa9d"
+  },
+  "vivienne": {
+    "image": "catalog-vivienne",
+    "label": "Dạ choàng thanh lịch",
+    "color": "Be ấm",
+    "swatch": "#c7b69d"
+  },
+  "adele": {
+    "image": "catalog-adele",
+    "label": "Dạ camel một hàng khuy",
+    "color": "Nâu camel",
+    "swatch": "#b48b60"
+  },
+  "lucie": {
+    "image": "catalog-lucie",
+    "label": "Dạ dài cổ điển",
+    "color": "Nâu camel",
+    "swatch": "#b48b60"
+  },
+  "manon": {
+    "image": "catalog-manon",
+    "label": "Dạ nâu caramel",
+    "color": "Nâu caramel",
+    "swatch": "#9e724c"
+  },
+  "sophie": {
+    "image": "catalog-sophie",
+    "label": "Trench cổ điển thắt đai",
+    "color": "Be cát",
+    "swatch": "#bdaa88"
+  },
+  "charlotte": {
+    "image": "catalog-charlotte",
+    "label": "Trench be giao mùa",
+    "color": "Be sáng",
+    "swatch": "#d1c1a9"
+  },
+  "lea": {
+    "image": "catalog-lea",
+    "label": "Trench ngày nắng nhẹ",
+    "color": "Be sáng",
+    "swatch": "#d1c1a9"
+  },
+  "gabrielle": {
+    "image": "catalog-gabrielle",
+    "label": "Trench dáng dài",
+    "color": "Be ngà",
+    "swatch": "#d9cebb"
+  },
+  "diane": {
+    "image": "catalog-diane",
+    "label": "Trench ngà cuối tuần",
+    "color": "Kem ngà",
+    "swatch": "#e8dfd0"
+  },
+  "flora": {
+    "image": "catalog-flora",
+    "label": "Trench hai hàng khuy",
+    "color": "Be yến mạch",
+    "swatch": "#c7bca9"
+  },
+  "eva": {
+    "image": "catalog-eva",
+    "label": "Trench camel công sở",
+    "color": "Nâu camel",
+    "swatch": "#b48b60"
+  },
+  "capucine": {
+    "image": "catalog-capucine",
+    "label": "Trench yến mạch",
+    "color": "Be yến mạch",
+    "swatch": "#c7bca9"
+  },
+  "nina": {
+    "image": "catalog-nina",
+    "label": "Trench xám xanh mùa thu",
+    "color": "Xám xanh",
+    "swatch": "#879089"
+  },
+  "jade": {
+    "image": "catalog-jade",
+    "label": "Trench maxi thanh lịch",
+    "color": "Be ấm",
+    "swatch": "#c7b69d"
+  },
+  "maelle": {
+    "image": "catalog-maelle",
+    "label": "Trench khaki",
+    "color": "Khaki",
+    "swatch": "#8b8c6b"
+  },
+  "lena": {
+    "image": "catalog-lena",
+    "label": "Trench xám rêu thắt đai",
+    "color": "Xám rêu",
+    "swatch": "#777a68"
+  }
+}

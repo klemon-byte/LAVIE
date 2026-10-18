@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1860" height="846" viewBox="0 0 1860 846">
+  <defs>
+    <linearGradient id="falloff" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff0d5" stop-opacity=".3"/>
+      <stop offset=".24" stop-color="#ffeacb" stop-opacity=".18"/>
+      <stop offset=".6" stop-color="#f5dfbd" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#eed8b8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="source"><stop stop-color="#fff5df" stop-opacity=".32"/><stop offset="1" stop-color="#ffedcd" stop-opacity="0"/></radialGradient>
+    <radialGradient id="face"><stop stop-color="#333"/><stop offset=".5" stop-color="#666"/><stop offset="1" stop-color="white"/></radialGradient>
+    <radialGradient id="fabric"><stop stop-color="#999"/><stop offset="1" stop-color="white"/></radialGradient>
+    <radialGradient id="floor"><stop stop-color="#f6e4ca" stop-opacity=".07"/><stop offset="1" stop-color="#f6e4ca" stop-opacity="0"/></radialGradient>
+    <mask id="keep-detail"><rect width="1860" height="846" fill="white"/><ellipse cx="1295" cy="385" rx="190" ry="260" fill="url(#fabric)"/><ellipse cx="1285" cy="105" rx="100" ry="140" fill="url(#face)"/></mask>
+    <filter id="soft" x="-50%" y="-30%" width="200%" height="160%"><feGaussianBlur stdDeviation="21 16"/></filter>
+    <filter id="bloom" x="-50%" y="-30%" width="200%" height="160%"><feGaussianBlur stdDeviation="45 30"/></filter>
+  </defs>
+  <!-- Overhead source slightly to the left; preserve face and fabric contrast. -->
+  <g mask="url(#keep-detail)">
+    <path d="M1198 -100 L1280 -100 C1375 208 1513 553 1620 865 L960 865 C1065 529 1150 195 1198 -100Z" fill="url(#falloff)" filter="url(#bloom)" opacity=".6"/>
+    <path d="M1217 -100 L1261 -100 C1350 197 1466 534 1545 846 L1035 846 C1124 513 1184 187 1217 -100Z" fill="url(#falloff)" filter="url(#soft)"/>
+  </g>
+  <ellipse cx="1238" cy="-42" rx="77" ry="100" fill="url(#source)" filter="url(#soft)"/>
+  <ellipse cx="1300" cy="767" rx="235" ry="40" fill="url(#floor)"/>
+</svg>

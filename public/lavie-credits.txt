@@ -1,0 +1,291 @@
+LAVIE — Prototype image credits / Nguồn hình ảnh minh họa
+
+Logo: supplied by the project owner. Original file preserved as logo.png.
+All fashion photography below is third-party reference material for this local educational/design prototype. Names, prices and size chart are illustrative and are not the source retailers' listings. This is not an affiliation with those retailers. Before commercial release, replace with owned/licensed product photography and verified product details.
+
+hero.webp — HANDSOME Corp. brand imagery
+https://www.handsome.co.kr/en/brand/fashion.do
+https://www.handsome.co.kr/resources/pc/ext/images/thumbs/brand-pop-2.jpg?dt=20230913_1
+
+lookbook.webp — BRUSNIKA reversible wool coat
+https://brusnikabrand.com/catalog/verkhnyaya_odezhda_1/palto/palto_5583/palto_005_pa5583_177_molochno_bezhevyy/
+https://brusnikabrand.com/upload/iblock/bd3/he6862vmq1klfew2k5y0crudfdlgene2.jpg
+
+coat-cream.webp — Kolon Mall
+https://www.kolonmall.com/Product/K1729689177399056NO01
+https://images.kolonmall.com/Prod_Img/10002651/2024/LM1/K1729689177399056NO01_LM1.jpg
+
+coat-brown.webp — PCFG Store
+https://pcfg.store/products/wool-coat
+https://pcfg.store/cdn/shop/files/34_e86d1c0e-50e4-42d1-849c-c399a1d2b370.jpg?v=1726596006
+
+trench.webp — Phase Eight / John Lewis
+https://www.johnlewis.com/phase-eight-cheryl-trench-coat/p112149663
+https://media.johnlewiscontent.com/i/JohnLewis/008826753
+
+tweed.webp — Chello, Cove Tweed Jacket in Cream
+https://www.chello.sg/product/cove-tweed-jacket-in-cream
+https://d12hzjwrv4lm49.cloudfront.net/sites/files/chello/images/products/202508/800xAUTO/cove_tweed_jacket_in_cream_2.jpg
+
+editorial.webp — Sumarokova Atelier, Polina Kovalova photography
+https://sumarokova.shop/products/maxi-wool-coat
+https://sumarokova.shop/cdn/shop/products/PolinaKovalova-16_2048x2048.jpg?v=1690537930
+
+pinterest-trench.webp — Pinterest fashion moodboard (original rights holder must be confirmed before commercial use)
+https://www.pinterest.com/pin/the-best-classic-trench-coats-for-women-for-a-minimal-chic-french-style-aesthetic--447474912991262778/
+https://i.pinimg.com/originals/74/35/10/743510e7f2395ba7b1ec01f8e62153a7.jpg
+
+Design references consulted 2026-10-18:
+https://gb.maxmara.com/ — editorial campaign presentation, coat-focused brand hierarchy
+https://us.maxmara.com/coats-and-jackets/womens-coats — silhouette and color navigation
+https://www.sezane.com/us-en/collection/coats — quick shopping, size selection and product navigation
+https://www.pinterest.com/pin/512003051388017510/ — neutral belted-coat styling
+
+logo-transparent.png — background removed from the user-supplied LAVIE logo using built-in ImageGen. Original preserved as logo.png. Prompt: artifacts/logo-edit.txt.
+Local fonts: Be Vietnam Pro and Playfair Display from Google Fonts (SIL Open Font License).
+
+
+Expanded catalogue reference photography (demo only):
+catalog-margot.webp — Sumarokova Atelier
+https://sumarokova.shop/products/brown-oversized-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/long-oversized-cashmere-blend-coat.jpg?v=1770068829
+
+catalog-louise.webp — Sumarokova Atelier
+https://sumarokova.shop/products/camel-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/il_794xN.3546454810_pp0p.jpg?v=1651481523
+
+catalog-audrey.webp — Sumarokova Atelier
+https://sumarokova.shop/products/tailored-overcoat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/Ivory_Coat_01.jpg?v=1770326501
+
+catalog-claire.webp — Sumarokova Atelier
+https://sumarokova.shop/products/ivory-long-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20210903VikaIvory_1.jpg?v=1651304083
+
+catalog-ines.webp — Sumarokova Atelier
+https://sumarokova.shop/products/camel-wool-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/winter_warm_wrap_coat.jpg?v=1698245138
+
+catalog-rose.webp — Sumarokova Atelier
+https://sumarokova.shop/products/wool-robe-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/warm_brown_wool_robe_coat.jpg?v=1698245879
+
+catalog-alice.webp — Sumarokova Atelier
+https://sumarokova.shop/products/oversized-long-wool-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/oversized-long-coat-in-oatmeal.jpg?v=1701127377
+
+catalog-juliette.webp — Sumarokova Atelier
+https://sumarokova.shop/products/full-length-winter-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/long-fitted-wool-coat-in-gray-beige.jpg?v=1702808464
+
+catalog-vivienne.webp — Sumarokova Atelier
+https://sumarokova.shop/products/cashmere-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/il_794xN.3584235935_qsy4.jpg?v=1651480930
+
+catalog-adele.webp — Sumarokova Atelier
+https://sumarokova.shop/products/single-breasted-camel-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/VikaCASHMEREsingle-brcoat_1_0bdfdd67-738d-48de-8013-5e1e71bc9dd0.jpg?v=1651394309
+
+catalog-lucie.webp — Sumarokova Atelier
+https://sumarokova.shop/products/long-wool-overcoat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/Vika_oldcamel_1.jpg?v=1651394797
+
+catalog-manon.webp — Sumarokova Atelier
+https://sumarokova.shop/products/caramel-brown-cashmere-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/il_794xN.2698757234_eam3.jpg?v=1651484509
+
+catalog-sophie.webp — Sumarokova Atelier
+https://sumarokova.shop/products/cotton-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20200929trench_1.jpg?v=1651310128
+
+catalog-gabrielle.webp — Sumarokova Atelier
+https://sumarokova.shop/products/silk-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/spring-trench-coat.jpg?v=1704808650
+
+catalog-charlotte.webp — Sumarokova Atelier
+https://sumarokova.shop/products/lightweight-beige-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/PolinaKovalova-58.jpg?v=1681975303
+
+catalog-lea.webp — Sumarokova Atelier
+https://sumarokova.shop/products/summer-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/PolinaKovalova-47.jpg?v=1681975062
+
+catalog-eva.webp — Sumarokova Atelier
+https://sumarokova.shop/products/camel-wool-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/Rooftrenchcamel_1.jpg?v=1651344986
+
+catalog-diane.webp — Sumarokova Atelier
+https://sumarokova.shop/products/ivory-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20181223ivorycoatweb_1.jpg?v=1651343812
+
+catalog-flora.webp — Sumarokova Atelier
+https://sumarokova.shop/products/double-breasted-wool-long-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/long-wool-overcoat.jpg?v=1703089963
+
+catalog-capucine.webp — Sumarokova Atelier
+https://sumarokova.shop/products/cashmere-wool-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/lined-coat-in-oatmeal.jpg?v=1703931697
+
+catalog-nina.webp — Sumarokova Atelier
+https://sumarokova.shop/products/autumn-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20210903Vikagreengraycoat_1.jpg?v=1759782468
+
+catalog-jade.webp — Sumarokova Atelier
+https://sumarokova.shop/products/wool-coat-maxi
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/lined_oversized_trench_coat.jpg?v=1697548724
+
+catalog-lena.webp — Sumarokova Atelier
+https://sumarokova.shop/products/belted-wool-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/autumn_trench_coat_in_moss_gray.jpg?v=1758121965
+
+catalog-maelle.webp — Sumarokova Atelier
+https://sumarokova.shop/products/khaki-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/PolinaKovalova-155.jpg?v=1758747538
+
+
+Expanded catalogue reference photography (demo only):
+catalog-giselle.webp — Sumarokova Atelier
+https://sumarokova.shop/products/wool-hooded-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/hoodedcoat03.jpg?v=1769413279
+
+catalog-fleur.webp — Sumarokova Atelier
+https://sumarokova.shop/products/light-blue-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20191029BABYBLUECOATSapersikWEB_1.jpg?v=1651432522
+
+catalog-colette.webp — Sumarokova Atelier
+https://sumarokova.shop/products/black-wool-belted-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/Black_Samantha_Coat_08.jpg?v=1770407420
+
+catalog-estelle.webp — Sumarokova Atelier
+https://sumarokova.shop/products/long-navy-wool-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/Navy_Oversized_Coat_05.jpg?v=1770068829
+
+catalog-iris.webp — Sumarokova Atelier
+https://sumarokova.shop/products/burgundy-wool-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/87A1972-2.jpg?v=1651304775
+
+catalog-lise.webp — Sumarokova Atelier
+https://sumarokova.shop/products/belted-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20201127_Vika_BROWNISHPINKcoat_1.jpg?v=1651307397
+
+catalog-jeanne.webp — Sumarokova Atelier
+https://sumarokova.shop/products/green-wool-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/87A7332-2web.jpg?v=1651306510
+
+catalog-heloise.webp — Sumarokova Atelier
+https://sumarokova.shop/products/black-winter-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/black_wool_coat.jpg?v=1734362349
+
+catalog-noemie.webp — Sumarokova Atelier
+https://sumarokova.shop/products/black-fitted-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/87A6415-1web_31d7c369-ff58-4120-ac3f-a026ca1a8de3.jpg?v=1651318026
+
+catalog-odette.webp — Sumarokova Atelier
+https://sumarokova.shop/products/wool-cocoon-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/87A7009-1.jpg?v=1651343361
+
+catalog-pauline.webp — Sumarokova Atelier
+https://sumarokova.shop/products/mustard-yellow-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20190920_mustard_coat_WEB_1.jpg?v=1651396037
+
+catalog-romane.webp — Sumarokova Atelier
+https://sumarokova.shop/products/double-breasted-camel-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/DSC3046-1.jpg?v=1651476832
+
+catalog-louise.webp — Sumarokova Atelier
+https://sumarokova.shop/products/camel-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/il_794xN.3546454810_pp0p.jpg?v=1651481523
+
+catalog-margot.webp — Sumarokova Atelier
+https://sumarokova.shop/products/brown-oversized-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/long-oversized-cashmere-blend-coat.jpg?v=1770068829
+
+catalog-claire.webp — Sumarokova Atelier
+https://sumarokova.shop/products/ivory-long-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20210903VikaIvory_1.jpg?v=1651304083
+
+catalog-audrey.webp — Sumarokova Atelier
+https://sumarokova.shop/products/tailored-overcoat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/Ivory_Coat_01.jpg?v=1770326501
+
+catalog-alice.webp — Sumarokova Atelier
+https://sumarokova.shop/products/oversized-long-wool-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/oversized-long-coat-in-oatmeal.jpg?v=1701127377
+
+catalog-rose.webp — Sumarokova Atelier
+https://sumarokova.shop/products/wool-robe-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/warm_brown_wool_robe_coat.jpg?v=1698245879
+
+catalog-ines.webp — Sumarokova Atelier
+https://sumarokova.shop/products/camel-wool-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/winter_warm_wrap_coat.jpg?v=1698245138
+
+catalog-juliette.webp — Sumarokova Atelier
+https://sumarokova.shop/products/full-length-winter-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/long-fitted-wool-coat-in-gray-beige.jpg?v=1702808464
+
+catalog-vivienne.webp — Sumarokova Atelier
+https://sumarokova.shop/products/cashmere-wrap-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/il_794xN.3584235935_qsy4.jpg?v=1651480930
+
+catalog-adele.webp — Sumarokova Atelier
+https://sumarokova.shop/products/single-breasted-camel-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/VikaCASHMEREsingle-brcoat_1_0bdfdd67-738d-48de-8013-5e1e71bc9dd0.jpg?v=1651394309
+
+catalog-lucie.webp — Sumarokova Atelier
+https://sumarokova.shop/products/long-wool-overcoat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/Vika_oldcamel_1.jpg?v=1651394797
+
+catalog-manon.webp — Sumarokova Atelier
+https://sumarokova.shop/products/caramel-brown-cashmere-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/il_794xN.2698757234_eam3.jpg?v=1651484509
+
+catalog-sophie.webp — Sumarokova Atelier
+https://sumarokova.shop/products/cotton-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20200929trench_1.jpg?v=1651310128
+
+catalog-charlotte.webp — Sumarokova Atelier
+https://sumarokova.shop/products/lightweight-beige-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/PolinaKovalova-58.jpg?v=1681975303
+
+catalog-lea.webp — Sumarokova Atelier
+https://sumarokova.shop/products/summer-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/PolinaKovalova-47.jpg?v=1681975062
+
+catalog-gabrielle.webp — Sumarokova Atelier
+https://sumarokova.shop/products/silk-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/spring-trench-coat.jpg?v=1704808650
+
+catalog-diane.webp — Sumarokova Atelier
+https://sumarokova.shop/products/ivory-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20181223ivorycoatweb_1.jpg?v=1651343812
+
+catalog-flora.webp — Sumarokova Atelier
+https://sumarokova.shop/products/double-breasted-wool-long-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/long-wool-overcoat.jpg?v=1703089963
+
+catalog-eva.webp — Sumarokova Atelier
+https://sumarokova.shop/products/camel-wool-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/Rooftrenchcamel_1.jpg?v=1651344986
+
+catalog-capucine.webp — Sumarokova Atelier
+https://sumarokova.shop/products/cashmere-wool-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/lined-coat-in-oatmeal.jpg?v=1703931697
+
+catalog-nina.webp — Sumarokova Atelier
+https://sumarokova.shop/products/autumn-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/20210903Vikagreengraycoat_1.jpg?v=1759782468
+
+catalog-jade.webp — Sumarokova Atelier
+https://sumarokova.shop/products/wool-coat-maxi
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/lined_oversized_trench_coat.jpg?v=1697548724
+
+catalog-maelle.webp — Sumarokova Atelier
+https://sumarokova.shop/products/khaki-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/products/PolinaKovalova-155.jpg?v=1758747538
+
+catalog-lena.webp — Sumarokova Atelier
+https://sumarokova.shop/products/belted-wool-trench-coat
+https://cdn.shopify.com/s/files/1/0613/6214/3473/files/autumn_trench_coat_in_moss_gray.jpg?v=1758121965
+
+LAVIE Sculpted Studio hero — studio-wool.webp, studio-trench.webp, studio-tweed.webp (PNG masters alongside). Generated with OpenAI ImageGen from the user-approved studio concept. Illustrative fashion concept images, not inventory photography. October 2026.

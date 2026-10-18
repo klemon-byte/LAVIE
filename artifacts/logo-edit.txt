@@ -1,0 +1,5 @@
+LAVIE logo transparent edit
+Mode: built-in ImageGen (background-extraction), not CLI.
+Input: public/assets/lavie/logo.png, original supplied by the user.
+Output: public/assets/lavie/logo-transparent.png.
+Prompt: Remove only the off-white/beige paper background and the gray shadow/rectangle at the bottom. Output true transparent alpha. Preserve the L monogram, woman in a hat and coat, ribbon, star, warm taupe/dusty rose coloring, LAVIE lettering and WOMEN’S OUTERWEAR with side rules. No redesign, new text, added shadow or painted checkerboard. Tight balanced crop with transparent padding.
