@@ -4,7 +4,7 @@ import Script from 'next/script';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
-const TOKEN = 'rj1hTuZvTAIfVXnA';
+const TOKEN = 'GVMh4vhjcqMhXz85';
 const BASE_URL = 'https://udify.app';
 const BUTTON_ID = 'dify-chatbot-bubble-button';
 const FRAME_ID = 'dify-chatbot-bubble-window';
