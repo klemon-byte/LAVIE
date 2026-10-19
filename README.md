@@ -167,3 +167,13 @@ The overhead cone is restored with blurred edges, a downward light falloff and t
 The old decor /products/[id] route is replaced by LAVIE product details for catalogue IDs, with notFound for unknown IDs. Shared LavieStore cart, favorites, size guide and demo checkout are reused. Hero products share studio imagery with the catalogue and details; Céline uses camel color. Browser checks passed for all three hero destinations, mobile preview-to-product navigation, and Céline size L added to the cart (test item removed afterward). Production compilation/TypeScript passed. Screenshots: artifacts/lavie-cone-soft-edge.png and artifacts/lavie-product-page.png.
 
 Outfit light tuning: overhead source offset slightly left with reduced light opacity and soft protection masks over the face/fabric to retain contrast. Fog is concentrated near the base rather than over the upper body; a faint floor light pool retains visible shoe shadows. Desktop and mobile haze masks updated. Build and TypeScript pass. Screenshot: artifacts/lavie-outfit-light-final.png.
+
+### Dify chatbot
+
+`components/chat/DifyChatbot.tsx` configures the public Dify embed token and loads the vendor script through `next/script` with `lazyOnload` and `dynamicScript: true`. It is mounted once in the root layout, so client-side navigation preserves the conversation. The widget is hidden on admin routes. No customer identity or cart data is passed to Dify.
+
+`app/dify-chatbot.css` keeps the requested blue launcher and 24rem by 40rem desktop window, constrains the frame to small viewports, and separates the back-to-top button from chat. The launcher supports keyboard activation and accessible Vietnamese labels. A direct chatbot link appears if the embed script fails to load.
+
+Verification (2026-10-19): production build and TypeScript passed; the real Dify iframe loads and accepts a message. The conversation persists after navigating from home to `/products/celine`, with one launcher and one iframe. Frame bounds verified at 390x844 and 320x640. Screenshots are in `artifacts/lavie-dify-desktop.png` and `artifacts/lavie-dify-mobile.png`.
+
+External blocker: the published bot currently returns `Model Currently Not Support` after sending a message, so successful AI replies could not be verified. Check the failing model node and model-provider configuration in Dify, test it there, then publish again. The embedded app currently displays `Knowledge: Chat with Your Documents` and an English document-assistant greeting; configure the bot name, opening message, instructions and product knowledge in Dify if it should act as the LAVIE shopping assistant. The embed alone does not synchronize the site's catalogue into Dify.

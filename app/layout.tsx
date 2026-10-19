@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import { MainLayoutWrapper } from '@/components/layout/MainLayoutWrapper';
+import DifyChatbot from '@/components/chat/DifyChatbot';
+import './dify-chatbot.css';
 
 export const metadata: Metadata = {
   title: 'LAVIE | Áo khoác nữ — Chạm vào mùa dịu êm',
@@ -18,6 +20,7 @@ export default function RootLayout({
           <MainLayoutWrapper>
             {children}
           </MainLayoutWrapper>
+          <DifyChatbot />
       </body>
     </html>
   );

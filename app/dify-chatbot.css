@@ -1,0 +1,30 @@
+:root{
+  --dify-chatbot-bubble-button-right:max(20px,env(safe-area-inset-right));
+  --dify-chatbot-bubble-button-bottom:calc(20px + env(safe-area-inset-bottom));
+  --dify-chatbot-bubble-button-width:52px;
+  --dify-chatbot-bubble-button-height:52px;
+}
+#dify-chatbot-bubble-button{background-color:#1C64F2!important}
+#dify-chatbot-bubble-button:focus-visible{outline:3px solid #947264;outline-offset:4px}
+#dify-chatbot-bubble-window{
+  position:fixed!important;
+  inset:auto max(20px,env(safe-area-inset-right)) calc(84px + env(safe-area-inset-bottom)) auto!important;
+  width:24rem!important;
+  height:40rem!important;
+  min-width:0!important;
+  min-height:0!important;
+  max-width:calc(100% - 32px)!important;
+  max-height:calc(100dvh - 104px - env(safe-area-inset-bottom) - env(safe-area-inset-top))!important;
+  background:#fff;
+  box-shadow:0 16px 56px #30211733!important;
+  border:1px solid #e3d8ce!important;
+}
+html body .lavie .lv-back-top{bottom:calc(88px + env(safe-area-inset-bottom))}
+html[data-lavie-chat-open] .lv-back-top{visibility:hidden}
+body:has([data-lavie-chat-disabled]) #dify-chatbot-bubble-button,
+body:has([data-lavie-chat-disabled]) #dify-chatbot-bubble-window{display:none!important}
+.lv-chat-fallback{position:fixed;right:20px;bottom:20px;z-index:70;background:#1c64f2;color:white;padding:14px 18px;border-radius:28px;font-size:13px;box-shadow:0 4px 16px #0002}
+@media(max-width:560px){
+  :root{--dify-chatbot-bubble-button-right:max(16px,env(safe-area-inset-right));--dify-chatbot-bubble-button-bottom:calc(16px + env(safe-area-inset-bottom))}
+  #dify-chatbot-bubble-window{right:max(12px,env(safe-area-inset-right))!important;bottom:calc(80px + env(safe-area-inset-bottom))!important;width:calc(100% - 24px)!important;max-width:calc(100% - 24px)!important;max-height:calc(100dvh - 96px - env(safe-area-inset-bottom) - env(safe-area-inset-top))!important}
+}
